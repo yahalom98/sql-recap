@@ -1,14 +1,3 @@
-Got it 👍
-
----
-
-# SQL for Beginners (Excel Users)
-
-120-Minute Hands-On Session
-
-Target audience:
-People who know Excel (filters, formulas, pivot tables, VLOOKUP/XLOOKUP)
-No prior SQL knowledge required
 
 ---
 
