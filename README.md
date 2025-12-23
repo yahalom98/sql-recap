@@ -1,5 +1,4 @@
 Got it 👍
-Below is the **same lesson**, **clean Markdown**, **no icons / no emojis**, ready to paste into **`README.md`** on GitHub.
 
 ---
 
